@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963927956143",
+    "project_id": "tasty-delights-a623f",
+    "storage_bucket": "tasty-delights-a623f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963927956143:android:19a9f808670bf88ff0125a",
+        "android_client_info": {
+          "package_name": "com.example.tastydelights"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALGmO26GZhUUYc3FxKkBamuS-X3QkabEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
